@@ -1,15 +1,21 @@
 _repo: Carols-of-Cockayne-The-Third-Edition-1874_49682
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Concanen, Alfred
     gutenberg_agent_id: '45485'
     url: http://www.gutenberg.org/2009/agents/45485
+covers:
+- cover_type: archival
+  image_path: 49682-h/images/cover.jpg
 creator:
   author:
     agent_name: Leigh, Henry S.
     gutenberg_agent_id: '45484'
     url: http://www.gutenberg.org/2009/agents/45484
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49682#Carols-of-Cockayne-The-Third-Edition-1874
 gutenberg_issued: '2015-08-11'
 gutenberg_type: Text
 identifiers:
